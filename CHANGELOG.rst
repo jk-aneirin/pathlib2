@@ -1,13 +1,16 @@
 History
 -------
 
-Version 2.1.1 (in development)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Version 2.2.0
+^^^^^^^^^^^^^
+
+- Sync with upstream pathlib from CPython 3.5.2: fix various
+  exceptions, empty glob pattern.
 
 Version 2.1.0
 ^^^^^^^^^^^^^
 
-- Sync with upstream pathlib from CPython: gethomedir, home,
+- Sync with upstream pathlib from CPython 3.5.0: gethomedir, home,
   expanduser.
 
 Version 2.0.1
